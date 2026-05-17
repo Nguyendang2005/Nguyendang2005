@@ -83,8 +83,8 @@
   <a href="https://github.com/Nguyendang2005/IOT">
     <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Nguyendang2005&repo=IOT&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
   </a>
-  <a href="https://github.com/Nguyendang2005/code_wed">
-    <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Nguyendang2005&repo=code_wed&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
+  <a href="https://github.com/Nguyendang2005/phamarcy-">
+    <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Nguyendang2005&repo=phamarcy-&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
   </a>
 </div>
 
