@@ -1,9 +1,28 @@
 <!-- Dang Dev -->
-<a href="#" target="_blank">
-  <img src="svg/dang.svg" width="1200" alt="dangdev-official" />
-</a>
+<div align="center">
+  <a href="#" target="_blank">
+    <img src="svg/dang.svg" width="1200" alt="dangdev-official" />
+  </a>
+</div>
 
-<h2 align="center">🛠 Tech Stack 🛠</h2>
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nguyendang2005&color=61dafb&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <br>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Nguy%E1%BB%85n+V%C4%83n+D%E1%BA%A1ng!;Make+it+work%2C+make+it+right%2C+make+it+fast.;Full-stack+Developer+%26+Java+Enthusiast" alt="Typing SVG" />
+</div>
+
+<br>
+
+### 🌱 About Me
+- 🔭 I’m currently working on **[MediCare+ (Pharmacy Management System)](https://github.com/Nguyendang2005/phamarcy-)**
+- 📚 I’m currently learning **Advanced System Architecture & AI Integration**
+- 💬 Ask me about **Java, Web Development & IoT**
+- ⚡ Fun fact: **Code is like humor. When you have to explain it, it’s bad.**
+
+<br><h2 align="center">🛠 Tech Stack 🛠</h2>
 <br>
 <!-- Languages -->
 <span><img src="https://img.shields.io/badge/C%23-282C34?logo=csharp&logoColor=239120" alt="C#" title="C#" height="25" /></span>
@@ -59,6 +78,17 @@
   <img width="390" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nguyendang2005&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   &nbsp;
   <img width="390" src="https://github-readme-stats-fast.vercel.app/api?username=Nguyendang2005&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
+</div>
+
+<br>
+<h2 align="center">🐍 Contribution Snake 🐍</h2>
+<br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nguyendang2005/Nguyendang2005/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nguyendang2005/Nguyendang2005/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nguyendang2005/Nguyendang2005/output/dist/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br>
