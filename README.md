@@ -73,26 +73,26 @@
 <br>
 <div align="center">
   <a href="https://github.com/Nguyendang2005/SoulSync">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Nguyendang2005&repo=SoulSync&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
+    <img width="400" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=Nguyendang2005&repo=SoulSync&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
   </a>
   <a href="https://github.com/Nguyendang2005/Prj301_demo">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Nguyendang2005&repo=Prj301_demo&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
+    <img width="400" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=Nguyendang2005&repo=Prj301_demo&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/Nguyendang2005/Wed_innocation">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Nguyendang2005&repo=Wed_innocation&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
+    <img width="400" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=Nguyendang2005&repo=Wed_innocation&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
   </a>
   <a href="https://github.com/Nguyendang2005/IOT">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Nguyendang2005&repo=IOT&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
+    <img width="400" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=Nguyendang2005&repo=IOT&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/Nguyendang2005/code_wed">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Nguyendang2005&repo=code_wed&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
+    <img width="400" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=Nguyendang2005&repo=code_wed&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
   </a>
-  <a href="https://github.com/Nguyendang2005/Calculator">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Nguyendang2005&repo=Calculator&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
+  <a href="https://github.com/Nguyendang2005/phamarcy_">
+    <img width="400" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=Nguyendang2005&repo=phamarcy_&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
   </a>
 </div>
 
@@ -101,17 +101,11 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/nguyen.dang.652547" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="dangdev-facebook" />
-  </a>
   <a href="https://www.tiktok.com/@Nguyendang2005" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/tiktok.png" alt="dangdev-tiktok" />
   </a>
-  <a href="https://mastodon.social/@NguyenDang" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/mastodon.png" alt="dangdev-mastodon" />
-  </a>
   <a href="https://mail.google.com/mail/u/0/#inbox" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="dangdev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/gmail--v1.png" alt="dangdev-gmail" />
   </a>
 </div>
 
