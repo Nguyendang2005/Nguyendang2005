@@ -84,7 +84,7 @@
     <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Nguyendang2005&repo=IOT&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
   </a>
   <a href="https://github.com/Nguyendang2005/phamarcy-">
-    <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Nguyendang2005&repo=phamarcy-&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
+    <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Nguyendang2005&repo=phamarcy-&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb&v=1" />
   </a>
 </div>
 
