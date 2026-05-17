@@ -56,9 +56,9 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nguyendang2005&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <img width="390" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nguyendang2005&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   &nbsp;
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Nguyendang2005&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img width="390" src="https://github-readme-stats-fast.vercel.app/api?username=Nguyendang2005&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
 </div>
 
 <br>
@@ -73,26 +73,26 @@
 <br>
 <div align="center">
   <a href="https://github.com/Nguyendang2005/SoulSync">
-    <img width="400" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=Nguyendang2005&repo=SoulSync&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
+    <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Nguyendang2005&repo=SoulSync&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
   </a>
   <a href="https://github.com/Nguyendang2005/Prj301_demo">
-    <img width="400" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=Nguyendang2005&repo=Prj301_demo&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
+    <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Nguyendang2005&repo=Prj301_demo&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/Nguyendang2005/Wed_innocation">
-    <img width="400" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=Nguyendang2005&repo=Wed_innocation&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
+    <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Nguyendang2005&repo=Wed_innocation&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
   </a>
   <a href="https://github.com/Nguyendang2005/IOT">
-    <img width="400" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=Nguyendang2005&repo=IOT&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
+    <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Nguyendang2005&repo=IOT&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/Nguyendang2005/code_wed">
-    <img width="400" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=Nguyendang2005&repo=code_wed&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
+    <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Nguyendang2005&repo=code_wed&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
   </a>
   <a href="https://github.com/Nguyendang2005/phamarcy_">
-    <img width="400" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/pin/?username=Nguyendang2005&repo=phamarcy_&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
+    <img width="400" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Nguyendang2005&repo=phamarcy_&theme=react&border_color=61dafb&hide_border=true&title_color=61dafb&icon_color=61dafb" />
   </a>
 </div>
 
@@ -101,6 +101,9 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
+  <a href="https://www.facebook.com/nguyen.dang.652547" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="dangdev-facebook" />
+  </a>
   <a href="https://www.tiktok.com/@Nguyendang2005" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/tiktok.png" alt="dangdev-tiktok" />
   </a>
